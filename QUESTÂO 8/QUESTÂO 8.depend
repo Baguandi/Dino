@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1530458218 source:c:\users\guilherme bucher\desktop\questÂo 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
